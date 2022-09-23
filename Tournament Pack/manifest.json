@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Copyright 2022 LavaCraftBedrock (github.com/cosmixcom). License: Warden License (github.com/WardenReports)",
+        "name": "Tournament Textures",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165823",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Copyright 2022 LavaCraftBedrock (github.com/cosmixcom). License: Warden License (github.com/WardenReports)",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028818",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "lava:staffmenu",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:can_destroy_in_creative": true,
+            "minecraft:max_stack_size": 1,
+            "minecraft:use_animation": "eat",
+            "minecraft:on_use": {
+                "on_use": {
+                    "event": "click",
+                    "target": "self"
+                }
+            },
+            "minecraft:icon": {
+                "texture": "staff"
+            }, 
+        },
+        "events": {
+            "click": {
+                "run_command": {
+                    "command": ["function chest"], 
+                    "target": "self"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.14",
+	"minecraft:npc_dialogue":
+	{
+		"scenes":
+		[
+			{
+				"scene_tag": "test",
+				"npc_name": { "rawtext": [ { "translate": "Friends" } ] },
+				"text": { "rawtext": [ { "translate": "bubble text", "with": ["\n"] } ] },
+				"buttons": [
+					{
+						"name": { "rawtext": [ { "translate": "@p" } ] },
+						"commands": [
+							"/say added",
+							"/say by dakonblackrose@youtube"
+						]
+					},
+					{
+						"name": { "rawtext": [ { "translate": "button 2" } ] },
+						"commands": [
+							"/say added s"
+						]
+					}
+				]
+			}
+		]
+	}
+}

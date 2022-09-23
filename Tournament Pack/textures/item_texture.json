@@ -1,0 +1,29 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+//start
+        "gear": {
+            "textures": "textures/items/gear"
+        },
+        "kit": {
+            "textures": "textures/items/kit"
+        },
+        "spawn": {
+            "textures": "textures/items/back"
+        },
+        "wand": {
+            "textures": "textures/items/stick"
+        },
+        "honeycomb": {
+            "textures": "textures/items/honeycomb"
+        },
+        "staff": {
+            "textures": "textures/items/gear"
+        },
+        "leapfeather": {
+                 "textures": "textures/items/leapfeather"
+        }
+//end
+    }
+}

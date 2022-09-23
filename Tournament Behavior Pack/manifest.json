@@ -1,0 +1,21 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Copyright 2022 LavaCraftBedrock (github.com/cosmixcom) License: Warden (github.com/WardenReports)",
+        "name": "§l§cTournament CMDS",
+        "uuid": "a35b686d-d13c-4d02-a1f2-c3a4439b8312",
+        "version": [1, 0, 0],
+        "min_engine_version":[1,10,0]
+    },
+    "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
+    "modules": [
+        {
+            "description": "License, Warden",
+            "type": "data",
+            "uuid": "f854f4c0-23a0-4e78-897a-981956e194f3",
+            "version": [0, 1, 0]
+        }
+    ]
+}
+
+
